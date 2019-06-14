@@ -41,8 +41,6 @@
     "require": {
         "php": "^7.0",
         "ext-ctype": "*",
-        "ext-dom": "*",
-        "ext-gd": "*",
         "ext-iconv": "*",
         "ext-fileinfo": "*",
         "ext-libxml": "*",
